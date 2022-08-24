@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ef0672-4604-42fc-81cb-e1b19f622f21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/~$ория тестирования - конспект.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$дготовка к грейду - мидл.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$дготовка к грейду - мидл.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Автоматизация/Devtools в автоматизации, CSS-фишки и прочее.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Автоматизация/Devtools в автоматизации, CSS-фишки и прочее.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Подготовка к грейду - мидл.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Подготовка к грейду - мидл.docx" afterDir="false" />
-    </list>
+    <list default="true" id="12ef0672-4604-42fc-81cb-e1b19f622f21" name="Changes" comment="ewwetg" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +55,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659420495877</updated>
     </task>
+    <task id="LOCAL-00001" summary="ewwetg">
+      <created>1659421165457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659421165457</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ewwetg" />
+    <option name="LAST_COMMIT_MESSAGE" value="ewwetg" />
   </component>
 </project>
