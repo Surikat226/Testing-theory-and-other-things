@@ -1,0 +1,1 @@
+SELECT count(pokemon_name) FROM pokemons
